@@ -1,0 +1,23 @@
+{
+  "name": "Bee_Inc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickeej/Bee_Inc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vickeej/Bee_Inc/issues"
+  },
+  "homepage": "https://vickeej.github.io/Bee_Inc",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
